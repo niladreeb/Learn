@@ -12,3 +12,7 @@ A functional demo app which implemented Splash screen, ListView, REST API Integr
 <h5>8. The app stores the entire json in the internal storage and always loads from it later unless the app is refreshed. Due to internal storage the contents are safe and gets deleted when the app is uninstalled.</h5>
 <h5>9. Robotium test case is included for the app to test the entire work flow. Kindly run RobotiumTest to start the automated testing.</h5>
 <h5>10. Attached some screenshots of the app for reference.
+
+![alt text][screenshots]
+
+[screenshots]: https://cloud.githubusercontent.com/assets/12607939/15248772/d6d8e290-1913-11e6-8316-d8adfa726d11.jpg
