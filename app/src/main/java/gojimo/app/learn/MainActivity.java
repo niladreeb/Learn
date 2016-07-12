@@ -38,7 +38,6 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-;
 
 public class MainActivity extends ListActivity {
 
@@ -56,7 +55,7 @@ public class MainActivity extends ListActivity {
     ArrayList<HashMap<String, String>> qualificationList;
 
     private static final String TAG_NAME = "name";
-    private static final String url = "https://api.gojimo.net/api/v4/qualifications";
+    private static final String url = "demo_url";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
